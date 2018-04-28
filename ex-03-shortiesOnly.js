@@ -43,7 +43,7 @@ var moreNames = [
 
 
 var shortList = shortiesOnly(allNames)
-var littleNameList = shortiesOnly(allNames)
+var littleNameList = shortiesOnly(moreNames)
 
 
 console.assert( shortList.length === 4 )
