@@ -2,15 +2,17 @@
 
 ## The Assignment
 
-The purpose of this assignment is to improve your understanding and develop your skills with iteration, one of the foundational concepts of programming and software development. For these exercises, you will need to use for-loops to arrive at the correct solution. **You are not to use helper methods like`.split()` , `substr()`, `.reverse()`.**
+The purpose of this assignment is to improve your understanding and develop your skills with iteration, one of the foundational concepts of programming and software development. For these exercises, you will need to use for-loops to arrive at the correct solution.
+
+**You are not to use helper methods like`.split()` , `substr()`, `.reverse()`.** The goal is to learn how to  manage iteration manually to solve problems.
 
 
 ### Setup
 ```sh
 # (1) Go to your  muktek/assignments directory and create the `js-iteration-basics` folder for this assignment
-cd ~/Documents/muktek/assignments
-mkdir js-iteration-basics
-cd js-iteration-basics
+cd ~/muktek/assignments
+mkdir assignment--js-iteration-basics
+cd assignment--js-iteration-basics
 
 
 # (2) Download the assignment-files with curl from the assignment repo and unzip
