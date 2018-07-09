@@ -9,12 +9,22 @@
  * from the previous queestion
 */
 
+// ++ Write YOUR CODE below
 
 
 
 
 
-//*-*~*~*~*~*~ Don't Touch *~*~*~*~*~*~*~*~*~*~*~
+
+
+
+
+// *~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
+// *~*~*~*~*~*~*~* Tests (Don't Touch) *~*~*~*~*~*~*~*~*
+// *~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*
+
+console.log("==== ex-10--isPalindrome : TEST 1 ====");
+
 console.assert( isPalindrome('wow') === true)
 console.assert( isPalindrome('milk') === false)
 console.assert( isPalindrome('howdy') === false)
